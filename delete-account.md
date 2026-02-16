@@ -1,29 +1,33 @@
-Delete Your MarketCroft Account
+# Delete Your MarketCroft Account
 
-If you would like to delete your MarketCroft account and associated data, please email:
+You can delete your MarketCroft account at any time directly within the app.
 
-support@marketcroft.com
+## How to Delete Your Account
 
-From the email address associated with your account and include:
+In the app:
 
-Your full name
+1. Go to **Profile**
+2. Scroll to the bottom
+3. Tap **Delete Account**
+4. Confirm your request
 
-The email address tied to your account
+Your account and associated personal data will be permanently deleted within 30 days of confirmation.
 
-We will delete your account and associated personal data within 30 days of verification.
+## What Information Is Deleted
 
-What will be deleted:
+When you delete your account, we permanently remove:
 
-Your account profile information
+- Your profile information
+- Favorites
+- Store interactions
+- Any user-generated content associated with your account
 
-Favorites
+## Data That May Be Retained
 
-Store interactions
+We may retain certain information if required for legal, security, or regulatory purposes. Any retained data will be limited to what is necessary and handled in accordance with our Privacy Policy.
 
-Any user-generated content
+## Need Help?
 
-What may be retained:
+If you are unable to access your account or need assistance, please contact:
 
-Transaction records (if required for legal/tax purposes)
-
-Aggregated, anonymized analytics data
+**support@marketcroft.com**
