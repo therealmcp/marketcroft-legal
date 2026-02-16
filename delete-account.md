@@ -1,3 +1,8 @@
+---
+layout: default
+title: Delete Account
+---
+
 # Delete Your MarketCroft Account
 
 You can delete your MarketCroft account at any time directly within the app.
